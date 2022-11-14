@@ -1,0 +1,15 @@
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\bin\Debug\net6.0\Challenge_1015.exe
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\bin\Debug\net6.0\Challenge_1015.deps.json
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\bin\Debug\net6.0\Challenge_1015.runtimeconfig.json
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\bin\Debug\net6.0\Challenge_1015.dll
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\bin\Debug\net6.0\Challenge_1015.pdb
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.csproj.AssemblyReference.cache
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.AssemblyInfoInputs.cache
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.AssemblyInfo.cs
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.csproj.CoreCompileInputs.cache
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.dll
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\refint\Challenge_1015.dll
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.pdb
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\Challenge_1015.genruntimeconfig.cache
+C:\Projetos\Uri - Challenges\Challenge_1015\Challenge_1015\obj\Debug\net6.0\ref\Challenge_1015.dll
